@@ -1,0 +1,19 @@
+[
+Id:          1
+Name:          lol
+Price:         200f
+Color:         RED
+Type:          digital
+Memory:        12
+Viewing_angle: 12
+Size:          12x6
+, 
+Id:          2
+Name:          lol
+Price:         200f
+Color:         RED
+Type:          base
+Material:      water
+Width:         12
+M_insert:      13x4
+]
